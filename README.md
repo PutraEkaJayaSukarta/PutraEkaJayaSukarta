@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:7c3aed&height=180&section=header&text=PutraEkaJayaSukarta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<table border="0">
+<table>
 <tr>
 <td width="25%" align="center">
 
